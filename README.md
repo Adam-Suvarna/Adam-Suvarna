@@ -66,7 +66,7 @@ $ ls ./certifications
 
 [![Kaspersky](https://img.shields.io/badge/Kaspersky-Certified-006D5B?style=for-the-badge&logo=kaspersky&logoColor=white)](https://education.kaspersky.com)
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR-PROFILE)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4RESXNGSGF.pdf)
 
 </div>
 
