@@ -1,19 +1,19 @@
 <div align="center">
 
 ```
-        ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗
-        ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
-        ███████║███████║██║     █████╔╝ █████╗  ██║  ██║
-        ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██║  ██║
-        ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██████╔╝
-        ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═════╝
-
-             ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-             ░░  [ unauthorized access denied ] ░░
-             ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ █████╗ ██████╗  █████╗ ███╗   ███╗
+██╔══██╗██╔══██╗██╔══██╗████╗ ████║
+███████║██║  ██║███████║██╔████╔██║
+██╔══██║██║  ██║██╔══██║██║╚██╔╝██║
+██║  ██║██████╔╝██║  ██║██║ ╚═╝ ██║
+╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝
 ```
 
+`cybersecurity` &nbsp;·&nbsp; `breaking things on purpose` &nbsp;·&nbsp; `documenting everything`
+
 </div>
+
+<br>
 
 ---
 
@@ -21,11 +21,13 @@
 $ cat about.txt
 ```
 
-Cybersecurity student. I spend most of my time understanding how things break -
+Cybersecurity student. I spend most of my time understanding how things break —
 networks, systems, applications, trust. Then I document it, because knowing isn't enough
 if you can't prove it.
 
 The work below is what that looks like.
+
+<br>
 
 ---
 
@@ -33,24 +35,18 @@ The work below is what that looks like.
 $ cat achievements.log
 ```
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  [01] TOP 3% WORLDWIDE                                           ║
-║       TryHackMe | Hackfinity Battle CTF                          ║
-║       Competed as a team of five.                                ║
-║       Completed 70% of all challenges solo.                      ║
-║                                                                  ║
-║  [02] DEEPFAKE DETECTION BENCHMARK FRAMEWORK                     ║
-║       Built a repeatable, evidence-based framework that          ║
-║       evaluates multiple AI deepfake detectors under one         ║
-║       standardised protocol, giving organisations a              ║
-║       way to choose which detector to trust                      ║
-║       and why. Five detection modules. Three test conditions.    ║
-║       One honest ranking out of 10.                              ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+**`01`** &nbsp; **TOP 3% WORLDWIDE** &nbsp;—&nbsp; TryHackMe · Hackfinity Battle CTF
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Competed as a team of five. Completed 70% of all challenges solo.
+
+<br>
+
+**`02`** &nbsp; **DEEPFAKE DETECTION BENCHMARK FRAMEWORK**
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Built a repeatable, evidence-based framework that evaluates multiple AI deepfake
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; detectors under one standardised protocol — giving organisations a clear, defensible
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; way to choose which detector to trust and why.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Five detection modules. Three test conditions. One honest ranking out of 10.
+
+<br>
 
 ---
 
@@ -60,15 +56,17 @@ $ ls ./certifications
 
 <div align="center">
 
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-In_Progress-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
-
-[![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-Certified-00C4CC?style=for-the-badge&logo=paloaltonetworks&logoColor=white)](https://www.paloaltonetworks.com/services/education)
-
-[![Kaspersky](https://img.shields.io/badge/Kaspersky-Certified-006D5B?style=for-the-badge&logo=kaspersky&logoColor=white)](https://education.kaspersky.com)
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4RESXNGSGF.pdf)
+![CompTIA](https://img.shields.io/badge/comptia-%23C8202F?style=for-the-badge&logo=comptia&logoColor=white)
+&nbsp;
+![Palo Alto](https://img.shields.io/badge/palo%20alto%20networks-%2300C4CC?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+&nbsp;
+![Kaspersky](https://img.shields.io/badge/kaspersky-%23006D5B?style=for-the-badge&logo=kaspersky&logoColor=white)
+&nbsp;
+[![TryHackMe](https://img.shields.io/badge/tryhackme-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4RESXNGSGF.pdf)
 
 </div>
+
+<br>
 
 ---
 
@@ -77,11 +75,12 @@ $ tail -f /var/log/currently.log
 ```
 
 ```
-[INFO]  sitting Security+ exam soon 
 [INFO]  working through new CTF challenges
-[INFO]  building this GitHub out properly — projects coming by the day
+[INFO]  building this GitHub out properly — projects coming
 [WARN]  sleep schedule: not a priority
 ```
+
+<br>
 
 ---
 
@@ -95,6 +94,11 @@ $ tail -f /var/log/currently.log
 
 ---
 
+<div align="center">
+
+`[ the terminal is home. the target is everything. ]`
+
+</div>
 <div align="center">
 
 ```
