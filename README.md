@@ -21,7 +21,7 @@
 $ cat about.txt
 ```
 
-Cybersecurity student. I spend most of my time understanding how things break —
+Cybersecurity student. I spend most of my time understanding how things break -
 networks, systems, applications, trust. Then I document it, because knowing isn't enough
 if you can't prove it.
 
@@ -37,15 +37,15 @@ $ cat achievements.log
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║  [01] TOP 3% WORLDWIDE                                           ║
-║       TryHackMe · Hackfinity Battle CTF                          ║
+║       TryHackMe | Hackfinity Battle CTF                          ║
 ║       Competed as a team of five.                                ║
 ║       Completed 70% of all challenges solo.                      ║
 ║                                                                  ║
 ║  [02] DEEPFAKE DETECTION BENCHMARK FRAMEWORK                     ║
 ║       Built a repeatable, evidence-based framework that          ║
 ║       evaluates multiple AI deepfake detectors under one         ║
-║       standardised protocol — giving organisations a clear,      ║
-║       defensible way to choose which detector to trust           ║
+║       standardised protocol, giving organisations a              ║
+║       way to choose which detector to trust                      ║
 ║       and why. Five detection modules. Three test conditions.    ║
 ║       One honest ranking out of 10.                              ║
 ║                                                                  ║
@@ -77,9 +77,9 @@ $ tail -f /var/log/currently.log
 ```
 
 ```
-[INFO]  sitting Security+ exam soon
+[INFO]  sitting Security+ exam soon 
 [INFO]  working through new CTF challenges
-[INFO]  building this GitHub out properly — projects coming
+[INFO]  building this GitHub out properly — projects coming by the day
 [WARN]  sleep schedule: not a priority
 ```
 
@@ -87,11 +87,9 @@ $ tail -f /var/log/currently.log
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/adam-suvarna-94178b236/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:your@email.com)
-&nbsp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00ff41)](https://tryhackme.com/p/YOUR-PROFILE)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00ff41)](https://tryhackme.com/p/Adam.SS)
 
 </div>
 
