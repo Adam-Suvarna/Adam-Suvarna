@@ -1,17 +1,16 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   ██████╗  ██████╗  ██████╗ ████████╗███████╗               ║
-║   ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝██╔════╝               ║
-║   ██████╔╝██║   ██║██║   ██║   ██║   ███████╗               ║
-║   ██╔══██╗██║   ██║██║   ██║   ██║   ╚════██║               ║
-║   ██║  ██║╚██████╔╝╚██████╔╝   ██║   ███████║               ║
-║   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝               ║
-║                                                              ║
-║              [ system initialized. ]                         ║
-╚══════════════════════════════════════════════════════════════╝
+        ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗
+        ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+        ███████║███████║██║     █████╔╝ █████╗  ██║  ██║
+        ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██║  ██║
+        ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██████╔╝
+        ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═════╝
+
+             ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+             ░░  [ unauthorized access denied ] ░░
+             ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
 </div>
@@ -19,82 +18,80 @@
 ---
 
 ```bash
-$ whoami
-> Adam [Family Name]
+$ cat about.txt
 ```
 
-Cybersecurity student. Curious by nature, relentless by habit.  
-I don't specialise yet — I explore everything. Networks, web apps, binaries, traffic, systems.  
-The field is too wide to commit to a lane this early, and I think that's the point.
+Cybersecurity student. I spend most of my time understanding how things break —
+networks, systems, applications, trust. Then I document it, because knowing isn't enough
+if you can't prove it.
 
-> *"You don't find your attack surface by staying in one place."*
+The work below is what that looks like.
 
 ---
 
 ```bash
-$ ls -la ~/skills
+$ cat achievements.log
 ```
 
 ```
-drwxr-xr-x   learning/
-├── network-security/
-├── web-application-security/
-├── penetration-testing/
-├── cryptography/
-├── linux-fundamentals/
-└── ctf-practice/
-```
-
-Still building. Always building.
-
----
-
-```bash
-$ cat projects.log
-```
-
-> Projects loading... check the pinned repos below ↓  
-> Each one is something I built, broke, fixed, or figured out from scratch.
-
----
-
-```bash
-$ ping mindset.txt --verbose
-```
-
-```
-PING mindset.txt ...
-Reply: hands-on > theory
-Reply: break it to understand it
-Reply: document everything
-Reply: the terminal is home
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║  [01] TOP 3% WORLDWIDE                                           ║
+║       TryHackMe · Hackfinity Battle CTF                          ║
+║       Competed as a team of five.                                ║
+║       Completed 70% of all challenges solo.                      ║
+║                                                                  ║
+║  [02] DEEPFAKE DETECTION BENCHMARK FRAMEWORK                     ║
+║       Built a repeatable, evidence-based framework that          ║
+║       evaluates multiple AI deepfake detectors under one         ║
+║       standardised protocol — giving organisations a clear,      ║
+║       defensible way to choose which detector to trust           ║
+║       and why. Five detection modules. Three test conditions.    ║
+║       One honest ranking out of 10.                              ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
 ```bash
-$ tail -f /var/log/currently-learning.log
-```
-
-```
-[INFO]  Exploring new tools and techniques daily
-[INFO]  Working through CTF challenges
-[INFO]  Building projects that make concepts tangible
-[DEBUG] Rabbit hole depth: unknown
-[WARN]  Sleep schedule: compromised
-```
-
----
-
-```bash
-$ netstat -connect
+$ ls ./certifications
 ```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/YOUR-LINK)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:your@email.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0a0a0a?style=for-the-badge&logo=tryhackme&logoColor=00ff41)](https://tryhackme.com/p/YOUR-PROFILE)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-In_Progress-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
+
+[![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-Certified-00C4CC?style=for-the-badge&logo=paloaltonetworks&logoColor=white)](https://www.paloaltonetworks.com/services/education)
+
+[![Kaspersky](https://img.shields.io/badge/Kaspersky-Certified-006D5B?style=for-the-badge&logo=kaspersky&logoColor=white)](https://education.kaspersky.com)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR-PROFILE)
+
+</div>
+
+---
+
+```bash
+$ tail -f /var/log/currently.log
+```
+
+```
+[INFO]  sitting Security+ exam soon
+[INFO]  working through new CTF challenges
+[INFO]  building this GitHub out properly — projects coming
+[WARN]  sleep schedule: not a priority
+```
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/YOUR-LINK)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:your@email.com)
+&nbsp;
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00ff41)](https://tryhackme.com/p/YOUR-PROFILE)
 
 </div>
 
@@ -103,7 +100,7 @@ $ netstat -connect
 <div align="center">
 
 ```
-[ session active ] — always learning, always curious
+[ the terminal is home. the target is everything. ]
 ```
 
 </div>
