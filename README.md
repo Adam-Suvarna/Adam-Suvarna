@@ -21,7 +21,7 @@
 $ cat about.txt
 ```
 
-Cybersecurity student. I spend most of my time understanding how things break —
+Cybersecurity student. I spend most of my time understanding how things break:
 networks, systems, applications, trust. Then I document it, because knowing isn't enough
 if you can't prove it.
 
@@ -36,13 +36,13 @@ $ cat achievements.log
 ```
 
 **`01`** &nbsp; **TOP 3% WORLDWIDE** &nbsp;—&nbsp; TryHackMe · Hackfinity Battle CTF
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Competed as a team of five. Completed 70% of all challenges solo.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Five people. One mission. Top 3% worldwide.
 
 <br>
 
 **`02`** &nbsp; **DEEPFAKE DETECTION BENCHMARK FRAMEWORK**
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Built a repeatable, evidence-based framework that evaluates multiple AI deepfake
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; detectors under one standardised protocol — giving organisations a clear, defensible
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Built a repeatable framework that evaluates multiple AI deepfake
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; detectors under one standardised protocol, giving organisations a
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; way to choose which detector to trust and why.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Five detection modules. Three test conditions. One honest ranking out of 10.
 
@@ -76,7 +76,7 @@ $ tail -f /var/log/currently.log
 
 ```
 [INFO]  working through new CTF challenges
-[INFO]  building this GitHub out properly — projects coming
+[INFO]  building this GitHub out properly - projects coming by the day
 [WARN]  sleep schedule: not a priority
 ```
 
