@@ -14,7 +14,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-`cybersecurity` &nbsp;·&nbsp; `breaking things on purpose` &nbsp;·&nbsp; `documenting everything`
+`Cybersecurity` &nbsp;·&nbsp; `Breaking things on purpose` &nbsp;·&nbsp; `Documenting everything`
 
 </div>
 
@@ -29,8 +29,6 @@ $ cat about.txt
 Cybersecurity student. I spend most of my time understanding how things break:
 networks, systems, applications, trust. Then I document it, because knowing isn't enough
 if you can't prove it.
-
-The work below is what that looks like.
 
 <br>
 
@@ -82,7 +80,7 @@ $ tail -f /var/log/currently.log
 ```
 [INFO]  working through new CTF challenges
 [INFO]  building this GitHub out properly - projects coming by the day
-[WARN]  sleep schedule: not a priority
+[WARN]  sleep schedule: whats that?
 ```
 
 <br>
@@ -94,20 +92,5 @@ $ tail -f /var/log/currently.log
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/adam-suvarna-94178b236/)
 &nbsp;
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00ff41)](https://tryhackme.com/p/Adam.SS)
-
-</div>
-
----
-
-<div align="center">
-
-`[ the terminal is home. the target is everything. ]`
-
-</div>
-<div align="center">
-
-```
-[ the terminal is home. the target is everything. ]
-```
 
 </div>
