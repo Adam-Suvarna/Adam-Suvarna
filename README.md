@@ -1,6 +1,6 @@
 <div align="center">
 
-# Cybersecurity Student
+# Cybersecurity Enthusiast
 
 `Cybersecurity` &nbsp;·&nbsp; `Breaking things on purpose` &nbsp;·&nbsp; `Continious learning`
 
@@ -14,9 +14,8 @@
 $ cat about.txt
 ```
 
-Cybersecurity student. I spend most of my time understanding how things break:
-networks, systems, applications, trust. Then I document it, because knowing isn't enough
-if you can't prove it.
+I spend most of my time understanding how things break: networks, systems,
+applications, trust. Then I document it, because knowing isn't enough if you can't prove it.
 
 <br>
 
@@ -67,7 +66,7 @@ $ tail -f /var/log/currently.log
 
 ```
 [INFO]  working through new CTF challenges
-[INFO]  building this GitHub out properly - projects coming by the day
+[INFO]  building this GitHub out properly
 [WARN]  sleep schedule: whats that?
 ```
 
