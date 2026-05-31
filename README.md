@@ -1,8 +1,6 @@
 <div align="center">
 
-```
 # Cybersecurity Student
-```
 
 `Cybersecurity` &nbsp;·&nbsp; `Breaking things on purpose` &nbsp;·&nbsp; `Continious learning`
 
