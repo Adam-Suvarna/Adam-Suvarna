@@ -1,20 +1,10 @@
 <div align="center">
 
 ```
-                               ╔══════════════════════════════════════════════════════════════╗
-                                  ║                                                              ║
-                                  ║   ██████╗  ██████╗  ██████╗ ████████╗███████╗               ║
-                                  ║   ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝██╔════╝               ║
-                                  ║   ██████╔╝██║   ██║██║   ██║   ██║   ███████╗               ║
-                                  ║   ██╔══██╗██║   ██║██║   ██║   ██║   ╚════██║               ║
-                                  ║   ██║  ██║╚██████╔╝╚██████╔╝   ██║   ███████║               ║
-                                  ║   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝               ║
-                                  ║                                                              ║
-                                  ║              [ system initialized ]                         ║
-                                  ╚══════════════════════════════════════════════════════════════╝
+# Cybersecurity Student
 ```
 
-`Cybersecurity` &nbsp;·&nbsp; `Breaking things on purpose` &nbsp;·&nbsp; `Documenting everything`
+`Cybersecurity` &nbsp;·&nbsp; `Breaking things on purpose` &nbsp;·&nbsp; `Continious learning`
 
 </div>
 
