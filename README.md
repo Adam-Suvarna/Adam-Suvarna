@@ -2,7 +2,7 @@
 
 # Cybersecurity Enthusiast
 
-`Cybersecurity` &nbsp;·&nbsp; `Breaking things on purpose` &nbsp;·&nbsp; `Continious learning`
+`Cybersecurity` &nbsp;·&nbsp; `Breaking things on purpose (Ethically)` &nbsp;·&nbsp; `Continious learning`
 
 </div>
 
