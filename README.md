@@ -25,7 +25,7 @@ applications, trust. Then I document it, because knowing isn't enough if you can
 $ cat achievements.log
 ```
 
-**`01`** &nbsp; **TOP 3% WORLDWIDE** &nbsp;—&nbsp; TryHackMe · Hackfinity Battle CTF
+**`01`** &nbsp; **TOP 3% WORLDWIDE** &nbsp;-&nbsp; TryHackMe · Hackfinity Battle CTF
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Five people. One mission. Top 3% worldwide.
 
 <br>
