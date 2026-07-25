@@ -1,8 +1,7 @@
 <div align="center">
 
-# Cybersecurity Enthusiast
-
-`Cybersecurity` &nbsp;·&nbsp; `Breaking things on purpose (Ethically)` &nbsp;·&nbsp; `Continious learning`
+# Adam Suvarna
+`Cybersecurity` &nbsp;·&nbsp; `Breaking things on purpose (Ethically)` &nbsp;·&nbsp; `Experimenting`
 
 </div>
 
@@ -14,27 +13,9 @@
 $ cat about.txt
 ```
 
-I spend most of my time understanding how things break: networks, systems,
-applications, trust. Then I document it, because knowing isn't enough if you can't prove it.
-
-<br>
-
----
-
-```bash
-$ cat achievements.log
-```
-
-**`01`** &nbsp; **TOP 3% WORLDWIDE** &nbsp;-&nbsp; TryHackMe · Hackfinity Battle CTF
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Five people. One mission. Top 3% worldwide.
-
-<br>
-
-**`02`** &nbsp; **DEEPFAKE DETECTION BENCHMARK FRAMEWORK**
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Built a repeatable framework that evaluates multiple AI deepfake
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; detectors under one standardised protocol, giving organisations a
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; way to choose which detector to trust and why.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Five detection modules. Three test conditions. One honest ranking out of 10.
+I specialise in cybersecurity. I build home labs,
+simulate attacks, write detections, and document everything. 
+Currently focused on SOC work and cloud security.
 
 <br>
 
@@ -55,20 +36,6 @@ $ ls ./certifications
 [![TryHackMe](https://img.shields.io/badge/tryhackme-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4RESXNGSGF.pdf)
 
 </div>
-
-<br>
-
----
-
-```bash
-$ tail -f /var/log/currently.log
-```
-
-```
-[INFO]  working through new CTF challenges
-[INFO]  building this GitHub out properly
-[WARN]  sleep schedule: whats that?
-```
 
 <br>
 
